@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mikey\Coding_Projects\Engine\main.cpp(34,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mikey\Coding_Projects\Engine\main.cpp(34,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mikey\Coding_Projects\Engine\main.cpp(34,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Engine.vcxproj -> C:\Users\mikey\Coding_Projects\Engine\x64\Debug\Engine.exe
